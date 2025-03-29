@@ -26,3 +26,4 @@
 
 Для запуска приложения все микросервисы должны быть запущены;
 
+Ссылка на диаграмму Задание 2: https://github.com/EvgenyVart/architecture-sprint-1/blob/mesto/draw-diagramm/arch_template_task2.drawio
